@@ -1,0 +1,36 @@
+#start-btn
+{
+    width: 40%;
+    font-family:'Courier New', Courier, monospace;
+} 
+#camera
+{
+    width:350px;
+    height: 250px;
+    border:3px dotted rgb(15, 224, 15);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 130px;
+}
+#textbox
+{
+    width: 300px;
+    background-color: greenyellow;
+}
+#btn
+{
+    color: black;
+    font-weight: bold;
+}
+#p
+{
+    color: black;
+    font-weight: bold;
+}
+.lab
+{
+    color: black;
+    font-weight: bold;
+}
